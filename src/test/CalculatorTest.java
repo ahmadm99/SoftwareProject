@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 
 import softwareEng.Calculator;
 
-class CalculatorTest {
+public class CalculatorTest {
 
 	@Test
 	void test() {
