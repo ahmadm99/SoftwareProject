@@ -10,8 +10,8 @@ import softwareEng.Calculator;
 
 public class CalculatorTest {
 
-	@Test
-	 void aatest() {
+	//@Test
+	 void test() {
 		//fail("Not yet implemented");
          int a=10;
          int b=20;
