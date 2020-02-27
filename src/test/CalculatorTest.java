@@ -11,7 +11,7 @@ import softwareEng.Calculator;
 public class CalculatorTest {
 
 	@Test
-	void test() {
+	public void test() {
 		//fail("Not yet implemented");
          int a=10;
          int b=20;
