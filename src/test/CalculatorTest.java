@@ -9,7 +9,7 @@ import org.junit.Test;
 
 import softwareEng.Calculator;
 
-public abstract class CalculatorTest {
+public class CalculatorTest {
 
 	@Test
 	 public void test() {
