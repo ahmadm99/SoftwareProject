@@ -1,6 +1,6 @@
 package softwareEng;
 
-import test.CalculatorTest;
+import test.*;
 
 public class Calculator {
 	
