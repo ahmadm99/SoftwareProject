@@ -9,6 +9,9 @@ import org.junit.jupiter.api.Test;
 import softwareEng.Calculator;
 
 public class CalculatorTest {
+	public void v() {
+		
+	}
 
 	@Test
 	 public void test() {
