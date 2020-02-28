@@ -1,6 +1,7 @@
 package softwareEng;
 
 import org.junit.jupiter.api.Test;
+import test.CalculatorTest;
 
 public class Calculator {
 	@Test
